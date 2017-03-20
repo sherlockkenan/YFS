@@ -1,2 +1,2 @@
 # YFS
-Computer System Design - lab，一个支持rpc，备份，不同用户登陆的文件系统
+Computer System Design - lab，分布式文件系统，支持rpc远程调用，版本控制，不同用户登录，错误修正（汉明编码）
